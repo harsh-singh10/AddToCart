@@ -29,55 +29,6 @@ function App() {
     //   price: 50000
     // },
     {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU',
-      name: 'Security Camera',
-      category: 'CCTV',
-      seller: 'Camron LTD',
-      price: 4000
-    },
-    {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU',
-      name: 'Security Camera',
-      category: 'CCTV',
-      seller: 'Camron LTD',
-      price: 4000
-    },
-    {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xzgtOpMxdpfgBOg3OKsEqYRkNBbuprJj4w&usqp=CAU',
-      name: 'Cup red Color',
-      category: 'Cup',
-      seller: 'ABS Ltd',
-      price: 100
-    },
-    {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU',
-      name: 'Security Camera',
-      category: 'CCTV',
-      seller: 'Camron LTD',
-      price: 4000
-    },
-    {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xzgtOpMxdpfgBOg3OKsEqYRkNBbuprJj4w&usqp=CAU',
-      name: 'Cup red Color',
-      category: 'Cup',
-      seller: 'ABS Ltd',
-      price: 100
-    },
-    {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU',
-      name: 'Security Camera',
-      category: 'CCTV',
-      seller: 'Camron LTD',
-      price: 4000
-    },
-    {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU',
-      name: 'Security Camera',
-      category: 'CCTV',
-      seller: 'Camron LTD',
-      price: 4000
-    },
-    {
       url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9e8Axt-h9q8EIybKfjGzbkIWJAr50_BX7Q&usqp=CAU',
       name: 'Watch Pink',
       category: 'Watches',
@@ -92,19 +43,55 @@ function App() {
       price: 4000
     },
     {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9e8Axt-h9q8EIybKfjGzbkIWJAr50_BX7Q&usqp=CAU',
-      name: 'Watch Pink',
-      category: 'Watches',
-      seller: 'Watch Ltd',
-      price: 2000
-    },
-    {
       url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xzgtOpMxdpfgBOg3OKsEqYRkNBbuprJj4w&usqp=CAU',
       name: 'Cup red Color',
       category: 'Cup',
       seller: 'ABS Ltd',
       price: 100
     },
+    {
+      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9e8Axt-h9q8EIybKfjGzbkIWJAr50_BX7Q&usqp=CAU',
+      name: 'Product 1',
+      category: 'Watches',
+      seller: 'Watch Ltd',
+      price: 2000
+    },
+    {
+      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xzgtOpMxdpfgBOg3OKsEqYRkNBbuprJj4w&usqp=CAU',
+      name: 'Product 2',
+      category: 'Cup',
+      seller: 'ABS Ltd',
+      price: 100
+    },
+    {
+      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU',
+      name: 'Product 3',
+      category: 'CCTV',
+      seller: 'Camron LTD',
+      price: 4000
+    },
+    {
+      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xzgtOpMxdpfgBOg3OKsEqYRkNBbuprJj4w&usqp=CAU',
+      name: 'Product4',
+      category: 'Cup',
+      seller: 'ABS Ltd',
+      price: 100
+    },
+    {
+      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU',
+      name: 'Product9',
+      category: 'CCTV',
+      seller: 'Camron LTD',
+      price: 4000
+    },
+    {
+      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvoDzLqrT7GwU3z7Ccp0Cl9rV0ZnU9DcmEg&usqp=CAU',
+      name: 'Product7',
+      category: 'CCTV',
+      seller: 'Camron LTD',
+      price: 4000
+    },
+ 
   ])
 
 
